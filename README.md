@@ -23,7 +23,7 @@ pip install web3 requests
 
 2. **Run the script:**
    ```bash
-   python eth.py
+   python3 eth.py
    ```
 
    The script will continuously generate new Ethereum wallets and check their balances using the Etherscan API. If it finds a wallet with a balance, it will stop and save the details to `wallet.txt`.
