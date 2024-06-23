@@ -2,6 +2,10 @@
 
 This Python script automatically generates Ethereum wallets and checks if they have a balance using the Etherscan API. If a wallet with a balance greater than zero is found, the script saves the wallet's private key, public key, and balance to a file named `wallet.txt`.
 
+NEW UPDATE HERE :  https://github.com/ZeroPingLLC/eth-brute/releases/tag/v2.0
+Release : 24.06.2024
+
+
 ## Prerequisites
 
 Before you run this script, you will need Python installed on your machine. Additionally, you will need to install the following Python libraries:
